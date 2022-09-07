@@ -1,7 +1,7 @@
 {
   "name": "test555",
   "private": true,
-  "description": "",
+  "description": "test",
   "version": "0.1.0",
   "author": "LostInStatic, tempfortests",
   "dependencies": {

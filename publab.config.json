@@ -12,7 +12,7 @@
       "role": "editor"
     }
   ],
-  "description": "",
+  "description": "test",
   "name": "test555",
   "packageManager": "npm",
   "useSass": false,
@@ -20,5 +20,10 @@
   "imagePath": "cover.jpg",
   "creationDate": 1662582617572,
   "tags": [],
-  "snippets": []
+  "snippets": [],
+  "status": "cloned",
+  "lastUpdate": 1662582617572,
+  "dirPath": "C:\\Users\\Hyperbook\\Documents\\publAB\\test555",
+  "keepDescriptionVisible": false,
+  "keepSnippetsVisible": false
 }
