@@ -17,7 +17,6 @@
   "packageManager": "npm",
   "useSass": false,
   "useTypescript": false,
-  "imagePath": "cover.jpg",
   "creationDate": 1662582617572,
   "tags": [],
   "snippets": [],
